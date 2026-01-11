@@ -14,12 +14,12 @@ The default **CTP-EOS™** symbol is a **blue chrome equilateral upward-facing t
   - **Geometry** (including **Sacred Geometry**),
   - **Trigonometry**, and
   - Other mathematical and metaphysical sciences integral to the structure of the universe.
-- **CTP-EOS™ Roots based on Arch Linux**:  
+- **CTP-EOS™ Roots originally based on Arch Linux**:  
   - The upgward facing triangle also alludes to the English letter 'A' for 'Arch' or [Arch Linux](https://archlinux.org) which CTP-EOS™ is-will be based on.
-  - This project is based on [Arch Linux](https://archlinux.org), providing a lightweight and flexible foundation for CTP-EOS™.
+  - CTP-EOS is a multi-format Linux LTS/rolling-release distrubution based on Debian Linux [Debian Linux](https://debian.org) [Arch Linux](https://archlinux.org), providing a lightweight and flexible foundation for CTP-EOS™.
 
 
-This symbol stands as a unifying icon for the **CTP-EOS™ Operating System** and the broader vision of **CTP Energy Science**—merging advanced energy principles with modern computing.
+This symbol stands as a unifying icon for the **CTP-EOS™ Operating System** and the broader vision of **CTP Energy Science/the CTPSci Sciences**—merging advanced energy principles with modern computing.
 
 ---
 
